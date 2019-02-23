@@ -1,0 +1,12 @@
+Fonts:
+'3Dventure' by memesbruh03
+'04b_19' by www.04.jp.org
+
+Sprites Made Using:
+'pixels.pxm'
+
+Music Created Made Using:
+'Bosca Ceoil'
+
+Sound Effects Made Using:
+'BFXR'
